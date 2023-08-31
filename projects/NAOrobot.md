@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: https://avatars.githubusercontent.com/u/112360557?s=400&u=c4c87826c75a6ed7c5c3dfdc65bbb6860a157a21&v=4
 title: "Working with NAO robots"
 date: 2022
 labels:
