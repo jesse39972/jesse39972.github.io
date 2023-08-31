@@ -21,7 +21,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript?" ]
+      "keywords": [ "C", "C++", "Java", "JavaScript?" ]
     },
     {
       "name": "Toolsets/OS",
@@ -41,27 +41,25 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Disney Store Ala Moana",
+      "position": "Stocker",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2020",
+      "endDate": "2021",
+      "summary": "Stocker at the Disney Store",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Unloaded shipment and filled store after closing"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "BLT Steakhouse",
+      "position": "Backwaiter",
+      "website": "",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "Standard food service job",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Bussed tables, ran drinks, interacted with customers"
       ]
     }
   ],
