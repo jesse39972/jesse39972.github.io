@@ -33,8 +33,8 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Fall, 2025)",
       "studyType": "B.S.",
-      "startDate": "Spring 2022",
-      "endDate": "Fall 2025",
+      "startDate": "2022",
+      "endDate": "Present",
       "courses": [
       ]
     }
@@ -90,20 +90,6 @@
         "Member, IEEE Student Branch, 2014-Present",
         "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
     }
   ],
   "references": [
