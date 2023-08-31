@@ -9,7 +9,7 @@ labels:
   - Java
 summary: "My group coded a text-based fishing game in Java for our ICS 211 final project."
 ---
-
+![A close-up of an Uhu.](img/Parrotfish.jpg)
 
 # Playing The Game
 The game operated using a simple text menu and random number generator. Played 2 players, the game consisted of each player taking turns selecting a choice from the menu. If they elected to cast out a line, a random number was generated and checked to be within a range. If within the range, a fish was hooked. If not, nothing was caught. Upon catching the fish, another number was generated to determine the weight. At the end of the game, the player with the highest total fish weight wins. Inheritance and general Object-Oriented Programming mechanics were used for the different fish types and behavior. 
