@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/fishingproject.png
 title: "ICS 211 Fishing Game"
 date: 2022
 published: true
