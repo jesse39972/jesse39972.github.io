@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/chessprojectimage.jpg
 title: Chess Improvement
 date: 2023
 published: true
