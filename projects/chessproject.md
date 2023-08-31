@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/chessprojectimage.jpg
+image: img/chessprojfinal.jpg
 title: Chess Improvement
 date: 2023
 published: true
