@@ -10,6 +10,7 @@ labels:
   - Answers
   - StackOverflow
 ---
+# A Question about Questions
 
 I’ve recently read Eric Raymond’s “How to Ask Questions the Smart Way” guide and decided I needed an example of both smart questions and not so smart ones. After all, questions are an important part of learning, and I figured I may as well try to get better at asking them. Thus, I took to StackOverflow, everyone’s favorite place to ask questions about programming, in search of these examples.
 
