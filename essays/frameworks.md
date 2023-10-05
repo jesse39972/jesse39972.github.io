@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "How to pull your development up by its Bootstrap(5)"
+title: "How To Pull Your Development Up By Its Bootstrap(5)"
 # All dates must be YYYY-MM-DD format!
 date: 2023-10-04
 published: true
