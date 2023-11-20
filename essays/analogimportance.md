@@ -17,6 +17,7 @@ Artificial Intelligence tools have started to make waves in various fields, from
 # Personal Experience
 
 1. Experience WODs e.g. E18
+
    I did not make use of any AI tools for any of these WODs. There were a plethora of resources available to help, such as the write-ups in each module, screencasts, and even documentation. I hardly ever needed outside help, and the few times I did, I preferred to search for the information on my own, whether through reading messages in the discord or surfing the web. I believe this problem-solving process helps build and improve valuable intuition skills.
 
 2.In-class Practice WODs
