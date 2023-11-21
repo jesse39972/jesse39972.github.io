@@ -11,7 +11,7 @@ labels:
 ---
 # Introduction:
 
-Artificial Intelligence tools have started to make waves in various fields, from art to writing. I believe that AI has no place in any of these fields. My stance remains unchanged when it comes to education and software engineering. Besides messing with Bard for 5 minutes before this essay just to have some experience with it, an experience from which I did not gain anything of note, I have not made much use of any AI tools over the course of this semester, and I have no plans on changing that. 
+Artificial Intelligence tools have started to make waves in various fields, from art to writing. I believe that AI has no place in any of these fields. My stance remains unchanged when it comes to education and software engineering. Besides messing with Bard for 5 minutes before writing this essay, an experience from which I did not gain anything of note, I have not made much use of any AI tools over the course of this semester, and I have no plans on changing that. 
 
 
 # Personal Experience:
