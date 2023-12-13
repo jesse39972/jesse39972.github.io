@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/UhnifyLandingPage.png
-title: UHnify: a webapp for clubs at UH Manoa
+title: UHnify, a webapp for clubs at UH Manoa
 date: 12/10/23
 published: true
 labels:
