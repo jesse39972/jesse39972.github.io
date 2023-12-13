@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/UhnifyLandingPage.jpg
+image: img/UhnifyLandingPage.png
 title: UHnify: a webapp for clubs at UH Manoa
 date: 12/10/23
 published: true
@@ -12,7 +12,7 @@ labels:
   - Group Work
 summary: "ICS 314 Final Project."
 ---
-![A screenshot of the browse clubs page on the website.](../img/UhnifyBrowseClubsPage.JPG)
+![A screenshot of the browse clubs page on the website.](../img/UhnifyBrowseClubsPage.png)
 
 # Results and Approach
 I've always had a passing interest in chess since I was young, but I never really bothered taking the time to actually learn it. With chess's recent rise in popularity, I decided to spend this summer actively trying to study the game to see how good I could get in a short period of time. I utilized resources such as books and internet videos to learn a tiny bit of everything: opening theory, middlegame strategy, and endgame technique. My elo started in the low 800s and currently sits at 1226 on chess.com. 
