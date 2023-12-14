@@ -16,12 +16,14 @@
   "interests": [
     { "name": "Video Games" },
     { "name": "Chess" },
-    { "name": "Drawing" }
+    { "name": "Drawing" },
+    { "name": "Software Engineering" },
+    { "name": "Mathematics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "JavaScript?" ]
+      "keywords": [ "C", "C++", "Java", "JavaScript", "HTML", "CSS", "Meteor", "React" ]
     },
     {
       "name": "Toolsets/OS",
