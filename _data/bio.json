@@ -1,0 +1,73 @@
+{
+  "basics": {
+    "name": "Jesse Lee Navas-Huang",
+    "label": "Student",
+    "picture": "https://github.com/jesse39972.png",
+    "email": "jesse39@hawaii.edu",
+    "phone": "808-931-9420",
+    "website": "https://jesse39972.github.io",
+    "summary": "I am a Computer Science major at the University of Hawaii at Manoa. I expect to graduate in Fall, 2025.",
+    "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "jesse39972", "url": "https://github.com/jesse39972" },
+      { "network": "linkedin", "username": "jesse39972", "url": "https://www.linkedin.com/in/jesse-lee-navas-huang-795a2a289/" }
+    ]
+  },
+  "interests": [
+    { "name": "Video Games" },
+    { "name": "Chess" },
+    { "name": "Drawing" },
+    { "name": "Software Engineering" },
+    { "name": "Mathematics" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "C++", "Java", "JavaScript", "HTML", "CSS", "Meteor", "React" ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "Windows", "MacOS", "Git/GitHub", "Digital Ocean", "MontiAPM" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Fall, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2022",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "Disney Store Ala Moana",
+      "position": "Stocker",
+      "website": "",
+      "startDate": "2020",
+      "endDate": "2021",
+      "summary": "Stocker at the Disney Store",
+      "highlights": [
+        "Unloaded shipment and filled store after closing"
+      ]
+    },
+    {
+      "company": "BLT Steakhouse",
+      "position": "Backwaiter",
+      "website": "",
+      "startDate": "2019",
+      "endDate": "2020",
+      "summary": "Standard food service job",
+      "highlights": [
+        "Bussed tables, ran drinks, interacted with customers"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
