@@ -4,7 +4,7 @@ type: essay
 title: "Software Engineers Hate Him! Easiest Way to Write Better Code Instantly!"
 # All dates must be YYYY-MM-DD format!
 date: 2023-09-20
-published: true
+published: false
 labels:
   - Coding Standards
   - IntelliJ
