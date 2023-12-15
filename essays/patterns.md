@@ -4,7 +4,7 @@ type: essay
 title: "The Importance of Pattern Recognition"
 # All dates must be YYYY-MM-DD format!
 date: 2023-11-29
-published: true
+published: false
 labels:
   - Design Patterns
   - Software Engineering
