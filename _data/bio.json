@@ -27,7 +27,7 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Windows", "Git/GitHub" ]
+      "keywords": [ "Windows", "MacOS", "Git/GitHub", "Digital Ocean", "MontiAPM" ]
     }
   ],
   "education": [
