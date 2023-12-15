@@ -9,8 +9,8 @@
     "summary": "I am a Computer Science major at the University of Hawaii at Manoa. I expect to graduate in Fall, 2025.",
     "location": { "address": "", "postalCode": "96818", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "jesse39972", "url": "http://github.com/jesse39972" },
-      { "network": "linkedin", "username": "jesse39972", "url": "www.linkedin.com/in/jesse-lee-navas-huang" }
+      { "network": "github", "username": "jesse39972", "url": "https://github.com/jesse39972" },
+      { "network": "linkedin", "username": "jesse39972", "url": "https://www.linkedin.com/in/jesse-lee-navas-huang-795a2a289/" }
     ]
   },
   "interests": [
