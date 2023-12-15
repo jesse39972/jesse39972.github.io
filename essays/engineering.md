@@ -1,15 +1,24 @@
 ---
 layout: essay
 type: essay
-title: "Engineering vs Tinkering"
+title: "What makes an engineer?"
 # All dates must be YYYY-MM-DD format!
-date: 2023-12-11
-published: false
+date: 2023-12-14
+published: true
 labels:
   - Software Engineering
 ---
-I recently attended a talk given by Dr. James Mason, a professor of Business Management at Lesley University. In it, he discusses the differences between an actual "software engineer" and a "coder." He went over all the processes that go into engineering software, why these processes exist, and some examples of using them effectively. However, the thing that stood out to me the most was this concept that he touched on briefly. He discussed the differences between an actual engineer and a simple tinkerer. 
+I recently attended a talk given by James Mason at UH Manoa. In the talk, he discusses the differences between an actual software engineer and a standard programmer. To illustrate his point, he compared the two occupations to the difference between an engineer and a tinkerer.  An engineer leverages their knowledge to build a general product that can be easily iterated upon, while a tinkerer only keeps individual preferences in mind, leading to a niche product that, even if it’s of a high quality, cannot be built upon and scaled; a similar distinction can be seen with “software engineers” and “coders.”
 
-An engineer is labeled as such because they use knowledge and experience to make informed decisions, while a tinkerer simply tries stuff to see what happens. For example, an engineer will 
+When an engineer builds something, they make conscious decisions based upon knowledge from similar projects in the past, as well as a need for continued work on said project to be easily accessible for other engineers. For example, when an engineer sets out to build a bridge, they first start by studying bridges built in the past, examining what went wrong, what went right, and why. This allows every design decision to be conscious and informed, serving a direct purpose. Each of these choices is documented and examined over the course of the project. Since every step was documented and made based upon a general “blueprint,” all of those steps can then be easily replicable in the future for anyone who may need to create their own bridge. Having easily repeatable steps is important because it allows others to easily achieve the exact same result and potentially refine the entire process. This allows future generations to continuously draw experience from that bridge and keep the cycle going. 
+
+When a tinkerer builds something, they make decisions on a whim based upon what “feels” right at that given moment; they do not bother keeping track of and examining past decisions or ensuring the project can be easily iterated upon by others. For example, if a tinkerer sets out to build that same bridge, rather than examining previous designs, they would simply start on it and play it by ear. Thus, their design decisions are a direct result of the circumstances specific to that particular bridge. While these decisions may be documented, their specific nature means they cannot be easily replicated and studied. Therefore, while the bridge may be of good quality, it cannot be maintained and improved upon by future engineers. 
+
+The same can be said of a coder: they’re only really focused on getting the code working and solving a specific problem, without worrying about readability or scalability. A coder will write code purely based upon their individual knowledge and preferences. This can make their code hard to understand and work with for others. Their solutions are specific to each individual problem; the steps taken in solving that specific problem are not easily replicable for someone else faced with a similar issue. This means their code cannot be iterated upon by future generations.  
+
+Software engineers, as the name suggests, are the engineers of the tech world, where they not only write code, but write it in such a way where it follows set standards to ensure it is easy to work with and scale. While a software engineer may certainly spend a fair amount of time coding, the code they write is carefully planned out. Extra time is spent to ensure the code not only works, but also follows pre-existing standards and design patterns, allowing future software engineers to start reliably replicating and building upon these solutions to produce even better ones. It’s clear the hallmark of engineering is not only building things, but building them in a scientific way, where each step can be reliably replicated, allowing others to study and improve upon them. This is the clear goal software engineers hope to accomplish with their software projects. 
+
+Of course, the comparison is not 1:1. The digital nature of software comes with its own set of unique challenges, which can make software engineering an exciting field. In standard engineering, the laws of physics that govern our planet largely dictate what is and isn’t truly possible. However, the land of technology does not possess these laws. You are unable to truly know exactly which problems are possible and impossible when it comes to building software. Software engineering being a relatively new, rapidly evolving field exacerbates the issue, because what was previously thought to be impossible may be solved the next day. Engineering is such an exciting field because you are essentially learning, optimizing, and building upon increasingly complex inventions, and software engineering is much the same, but with the added challenge that comes with an abstract, digital environment.
+
 
 
